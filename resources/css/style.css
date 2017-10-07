@@ -7,7 +7,6 @@ h1{
   font-size: 70px;
   font-weight: bold;
   color: white;
-  background-color: dimgray;
 }
 
 h2 {
@@ -27,12 +26,12 @@ a {
 }
 
 #home {
-  background-color: dimgray;
+  background-image: url("images/the-flatiron-building.png");
 }
 
 #NY {
   color: white;
-  background-color: dimgray;
+  background-image: url("images/the-flatiron-building.png");
 }
 
 #cpy {
